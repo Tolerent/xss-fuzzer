@@ -27,6 +27,7 @@ sudo chmod +x /usr/local/bin/chromedriver
 
 # USAGE
 Run your script inside the virtual environment
+
 python3 xss-fuzzer.py
 
 # Deactivate virtual environment when finished
